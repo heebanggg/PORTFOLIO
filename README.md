@@ -64,11 +64,15 @@
 
 - AI로 요즘 트렌드를 알아볼수있게 메인페이지를 구현했다
 
+
+
 ### **2. 상품별 트렌드**
 
 ![상품별 트렌드 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/816c8fef-2db6-4d01-b3c9-3a46454a3d73)
 
 - 상품별 트렌드를 한눈에 볼수있게 설정
+
+
 
 ### **3. 반응형 웹**
 
@@ -76,30 +80,7 @@
 
 - DB로 검색기록 저장 후 검색기록 많은 순서대로 랭킹 1위로 올수있게 설정해두었다
 
-```javascript
-// media.js
-const deviceSizes = {
-  desktop: '1440px',
-  laptop: '1280px',
-  tablet: '1024px',
-  mobile: '768px',
-  phone: '480px',
-};
 
-const media = {
-  desktop: `screen and (max-width: ${deviceSizes.desktop})`,
-  laptop: `screen and (max-width: ${deviceSizes.laptop})`,
-  tablet: `screen and (max-width: ${deviceSizes.tablet})`,
-  mobile: `screen and (max-width: ${deviceSizes.mobile})`,
-  phone: `screen and (max-width: ${deviceSizes.phone})`,
-};
-
-export { deviceSizes, media };
-```
-
-<img width="100%" alt="반응형 네비게이션" src="https://user-images.githubusercontent.com/51189962/136144313-2a67d258-3ec1-4517-80fc-3f67b957dff5.gif" />
-
-- 네비게이션 메뉴의 경우 mobile(768px)을 기준으로 그 이상일 경우 상단바, 이하일 경우 햄버거메뉴로 변경
 
 ### **4. Email 전송**
 
