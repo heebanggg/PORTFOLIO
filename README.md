@@ -72,9 +72,9 @@
 
 ### **3. 반응형 웹**
 
-<img width="100%" alt="반응형" src="https://user-images.githubusercontent.com/51189962/136144110-0a5cb56e-1dcf-4bc8-b7d8-b93bbb100744.gif" />
+![랭킹미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/b543eaa7-9dda-4e9e-98e2-0e4389661f3c)
 
-- 5개의 endpoint를 두고 반응형을 구현함
+- DB로 검색기록 저장 후 검색기록 많은 순서대로 랭킹 1위로 올수있게 설정해두었다
 
 ```javascript
 // media.js
