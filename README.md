@@ -23,16 +23,16 @@
 >
 > **기획 및 제작:** 박희범
 >
-> **분류:** 개인 프로젝트
+> **분류:** 팀 프로젝트
 >
-> **제작 기간:** 2021.09 ~ 10.
+> **제작 기간:** 2023 07.17 ~ 09.13
 >
-> **배포일:** 2021.10.05.
+> **주요 기능:** 메인페이지, 상품별 트렌드, 랭킹 미리보기
 >
-> **주요 기능:** 라이트/다크 모드, 반응형 웹, Hash Link, Email 전송, 배포 및 커스텀 도메인 연결, open graph
->
-> **사용 기술:** React, Styled-components, Firebase Hosting
->
+> **사용 기술:** 협업툴: Notion, Google Sheets, Google Slides, Google Drive 개발환경:eclips 프레임워크:spring, MyBatis
+>   데이터 베이스: mysql WAS: Apache Tomcat 9.0 버전관리: GitHub, Sourcetree, git 언어: JAVA, JSP, AJAX, HTML5, CSS3
+>   라이브러리: jquery, commonsDBCP, Bootstrap
+>t
 > **문의:** keemgreat@gmail.com
 
 <br />
@@ -74,7 +74,7 @@
 
 
 
-### **3. 반응형 웹**
+### **3. 랭킹 미리보기**
 
 ![랭킹미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/b543eaa7-9dda-4e9e-98e2-0e4389661f3c)
 
