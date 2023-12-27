@@ -32,8 +32,8 @@
 > **사용 기술:** 협업툴: Notion, Google Sheets, Google Slides, Google Drive 개발환경:eclips 프레임워크:spring, MyBatis
 >   데이터 베이스: mysql WAS: Apache Tomcat 9.0 버전관리: GitHub, Sourcetree, git 언어: JAVA, JSP, AJAX, HTML5, CSS3
 >   라이브러리: jquery, commonsDBCP, Bootstrap
->t
-> **문의:** keemgreat@gmail.com
+
+> **문의:** qkrgmlqja90@naver.com
 
 <br />
 
