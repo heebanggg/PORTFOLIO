@@ -62,13 +62,13 @@
 
 ![01 메인페이지 - 복사본](https://github.com/heebanggg/PORTFOLIO/assets/134472331/7faaa8a2-e8e7-4923-a06e-edcc2824d468)
 
+- AI로 요즘 트렌드를 알아볼수있게 메인페이지를 구현했다
 
-### **2. Hash Link**
+### **2. 상품별 트렌드**
 
-<img width="100%" alt="hashlink" src="https://user-images.githubusercontent.com/51189962/136143186-aeb70c36-8e21-40e7-b937-deea0e66ad18.gif" />
+![상품별 트렌드 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/816c8fef-2db6-4d01-b3c9-3a46454a3d73)
 
-- Hash Link링크를 이용하여 네비게이션에서 메뉴 클릭시 해당 영역으로 스크롤되도록 구현
-- 해당하는 메뉴의 영역은 Full page.js와 유사하게 스타일링함
+- 상품별 트렌드를 한눈에 볼수있게 설정
 
 ### **3. 반응형 웹**
 
