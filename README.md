@@ -62,11 +62,15 @@
 
 
 
+
+
 ### **2. 상품별 트렌드**
 
 ![상품별 트렌드 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/816c8fef-2db6-4d01-b3c9-3a46454a3d73)
 
 - 상품별 트렌드를 한눈에 볼수있게 설정
+
+
 
 
 
@@ -78,9 +82,13 @@
 
 
 
+
+
 ### **4. 상품별 트렌드 미리보기**
 
 ![상품별 트렌드 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/01174e33-f44e-4a70-872d-df1afb8759ac)
+
+
 
 
 
@@ -90,10 +98,15 @@
 
 
 
+
+
 ### **6. 아이디 찾기 기능**
 
 ![아이디 찾기 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/7479e58a-2a94-4c59-8739-d0d9555cd1e2)
 ![아이디 찾기 미리보기 2](https://github.com/heebanggg/PORTFOLIO/assets/134472331/ca252905-8073-453e-90f9-7879abcd7d28)
+
+
+
 
 
 ### **7. 비밀번호 찾기 기능**
