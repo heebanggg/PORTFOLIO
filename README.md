@@ -41,11 +41,6 @@
 ![Spring Framework](https://img.shields.io/badge/SpringFramework-FFFF33?style=flat-square&logo=spring) ![MariaDB](https://img.shields.io/badge/MariaDB-339933.svg?style=flat-square&logo=MariaDB)
 ![MySQL](https://img.shields.io/badge/MySQL-%23121011.svg?style=flat-square&logo=MySQL) ![HTML5](https://img.shields.io/badge/HTML5-CCCCFF.svg?style=flat-square&logo=HTML5) ![JavaScript](https://img.shields.io/badge/JavaScript-FFCCCC.svg?style=flat-square&logo=JavaScript) 
 
-<br />
-
-## **🔗 링크**
-
-**링크:** [https://keemtj.com](https://keemtj.com)
 
 <br />
 
