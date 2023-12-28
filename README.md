@@ -77,15 +77,11 @@
 
 
 
-### **4. Email 전송**
+### **4. 상품별 트렌드 미리보기**
 
-<img width="100%" alt="이메일 발신" src="https://user-images.githubusercontent.com/51189962/136146784-b8b42395-8a05-402a-b393-d0aa95580c7f.gif" />
-<img width="100%" alt="이메일 수신" src="https://user-images.githubusercontent.com/51189962/136147118-ae829b7e-7ca5-4ef0-92e2-f7adc70ddb29.png" />
+![상품별 트렌드 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/01174e33-f44e-4a70-872d-df1afb8759ac)
 
-- EmailJS를 이용하여 서버없이 메일 서비스를 이용할 수 있도록 구현
-- Sweetalert를 이용하여 커스텀 alert를 구현
-- https://emailjs.com
-- https://sweetalert2.github.io/
+
 
 ### **5. Open graph**
 
