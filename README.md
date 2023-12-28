@@ -55,6 +55,7 @@
 ### **1. 메인페이지**
 
 
+
 ![01 메인페이지 - 복사본](https://github.com/heebanggg/PORTFOLIO/assets/134472331/7faaa8a2-e8e7-4923-a06e-edcc2824d468)
 
 - AI로 요즘 트렌드를 알아볼수있게 메인페이지를 구현했다
@@ -83,30 +84,25 @@
 
 
 
-### **5. Open graph**
+### **5. 상품 상세페이지**
 
-<img width="100%" alt="스크린샷 2021-10-06 15 02 30" src="https://user-images.githubusercontent.com/51189962/136148865-7b6cfd30-ae66-410f-89fa-16f9ad883c74.png" />
+![상품 상세페이지](https://github.com/heebanggg/PORTFOLIO/assets/134472331/753424f4-0f3b-4997-b295-a1986be8ff15)
 
-<img width="100%" alt="스크린샷 2021-10-06 15 03 15" src="https://user-images.githubusercontent.com/51189962/136148961-28e8c84b-b5fb-4052-9150-7c20e6af3cbc.png" />
 
-```html
-<!-- index.html -->
-<meta property="og:title" content="김태진 • Frontend Developer" />
-<meta property="og:description" content="프론트엔드 개발자 김태진입니다." />
-<meta property="og:image" content="%PUBLIC_URL%/thumb.png" />
-<meta property="og:url" content="https://keemtj.com/" />
-<meta property="og:type" content="website" />
-```
 
-- meta tags를 통해 Facebook, twitter, linkedin, discord, kakao talk 등 링크를 전달 했을 때 링크에 대한 정보를 볼 수 있도록 구현
-- https://www.opengraph.xyz
+### **6. 아이디 찾기 기능**
 
-### **6. 기타 기능**
+![아이디 찾기 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/7479e58a-2a94-4c59-8739-d0d9555cd1e2)
+![아이디 찾기 미리보기 2](https://github.com/heebanggg/PORTFOLIO/assets/134472331/ca252905-8073-453e-90f9-7879abcd7d28)
 
-- favicon.ico 생성
-- Fade-in transform
-- 프로젝트 페이지
-- React-responsive-carousel 커스텀
+
+### **7. 비밀번호 찾기 기능**
+
+![비밀번호 찾기 미리보기 1](https://github.com/heebanggg/PORTFOLIO/assets/134472331/f12997ff-8b5a-4720-95d7-543874f5a20d)
+![비밀번호 찾기 미리보기 2'](https://github.com/heebanggg/PORTFOLIO/assets/134472331/e01f6703-3fb7-400a-8859-e040625b4212)
+![비밀번호 찾기 미리보기 3](https://github.com/heebanggg/PORTFOLIO/assets/134472331/74acc5af-0b4a-4713-92ac-a0c0cf016131)
+
+
 
 ## **🚀 배포**
 
