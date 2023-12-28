@@ -103,6 +103,7 @@
 ### **6. 아이디 찾기 기능**
 
 ![아이디 찾기 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/7479e58a-2a94-4c59-8739-d0d9555cd1e2)
+↓
 ![아이디 찾기 미리보기 2](https://github.com/heebanggg/PORTFOLIO/assets/134472331/ca252905-8073-453e-90f9-7879abcd7d28)
 
 
@@ -112,7 +113,9 @@
 ### **7. 비밀번호 찾기 기능**
 
 ![비밀번호 찾기 미리보기 1](https://github.com/heebanggg/PORTFOLIO/assets/134472331/f12997ff-8b5a-4720-95d7-543874f5a20d)
+↓
 ![비밀번호 찾기 미리보기 2'](https://github.com/heebanggg/PORTFOLIO/assets/134472331/e01f6703-3fb7-400a-8859-e040625b4212)
+↓
 ![비밀번호 찾기 미리보기 3](https://github.com/heebanggg/PORTFOLIO/assets/134472331/74acc5af-0b4a-4713-92ac-a0c0cf016131)
 
 
