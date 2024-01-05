@@ -2,7 +2,6 @@
 개인 포트폴리오 사이트입니다.
 
 
-<img width="100%" alt="이름바꿔" src="이미지경로" />
 
 <b>
 
@@ -44,9 +43,6 @@
 
 <br />
 
-## **✨ 팀프로젝트**
-
-- About 섹션에 이력서 및 자기소개서 다운로드 기능 추가(21.10.13)
 
 <br />
 
@@ -60,9 +56,9 @@
 
 - AI로 요즘 트렌드를 알아볼수있게 메인페이지를 구현했다
 
+<br />
 
-
-
+<br />
 
 ### **2. 상품별 트렌드**
 
@@ -70,9 +66,9 @@
 
 - 상품별 트렌드를 한눈에 볼수있게 설정
 
+<br />
 
-
-
+<br />
 
 ### **3. 랭킹 미리보기**
 
@@ -80,25 +76,25 @@
 
 - DB로 검색기록을 일간, 주간, 월간 순으로 저장 후 검색기록 많은 순서대로 랭킹 1위로 올수있게 설정해두었다
 
+<br />
 
-
-
+<br />
 
 ### **4. 상품별 트렌드 미리보기**
 
 ![상품별 트렌드 미리보기](https://github.com/heebanggg/PORTFOLIO/assets/134472331/01174e33-f44e-4a70-872d-df1afb8759ac)
 
+<br />
 
-
-
+<br />
 
 ### **5. 상품 상세페이지**
 
 ![상품 상세페이지](https://github.com/heebanggg/PORTFOLIO/assets/134472331/753424f4-0f3b-4997-b295-a1986be8ff15)
 
+<br />
 
-
-
+<br />
 
 ### **6. 아이디 찾기 기능**
 
@@ -107,9 +103,9 @@
 
 ![아이디 찾기 미리보기 2](https://github.com/heebanggg/PORTFOLIO/assets/134472331/ca252905-8073-453e-90f9-7879abcd7d28)
 
+<br />
 
-
-
+<br />
 
 ### **7. 비밀번호 찾기 기능**
 
@@ -122,48 +118,16 @@
 ![비밀번호 찾기 미리보기 3](https://github.com/heebanggg/PORTFOLIO/assets/134472331/74acc5af-0b4a-4713-92ac-a0c0cf016131)
 
 
-
-## **🚀 배포**
-
-- 첫 배포
-
-```
-$ npm install -g firebase-tools
-$ firebase init
-$ firebase login
-  > HOSTING
-  > Directroy? build
-$ yarn build
-$ firebase deploy
-```
-
-- 수정 후 배포
-
-```
-$ yarn build
-$ firebase deploy
-```
-
-- 커스텀 도메인: Godaddy에서 커스텀 도매인 구매(https://keemtj.com)
+<br />
 
 <br />
 
 ## ⏰ 커밋 히스토리
 
-[내 커밋 히스토리 보러가기](https://github.com/keemtj/portfolio/commits?author=keemtj)
-<br/>
-<br/>
-<br/>
 
-주요 기술: 라이트/다크 모드, 반응형 웹, Hash Link, Email 전송, 배포 및 커스텀 도메인 연결, open graph
 
 문의: qkrgmlqja90@naver.com
 
-🛠 기술 및 도구
-React Styled-Components Firebase GitHub
-🔗 링크
-링크: https://keemtj.com
 ✨ 업데이트
-About 섹션에 이력서 및 자기소개서 다운로드 기능 추가(21.10.13)
 👨🏻‍💻 기능 구현
 ⏰ 커밋 히스토리
