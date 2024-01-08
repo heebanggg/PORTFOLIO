@@ -33,6 +33,8 @@
 >   라이브러리: jquery, commonsDBCP, Bootstrap
 
 > **문의:** qkrgmlqja90@naver.com
+>
+> **종합 PPT:** [신발 전문 트렌드리서치 플랫폼 SHOES4JO.zip](https://github.com/heebanggg/PORTFOLIO/files/13858852/SHOES4JO.zip)
 
 <br />
 
@@ -122,12 +124,10 @@
 
 <br />
 
-## ⏰ 커밋 히스토리
+## ⏰ 최종 PPT
+[신발 전문 트렌드리서치 플랫폼 SHOES4JO.zip](https://github.com/heebanggg/PORTFOLIO/files/13858852/SHOES4JO.zip)
 
 
 
 문의: qkrgmlqja90@naver.com
 
-✨ 업데이트
-👨🏻‍💻 기능 구현
-⏰ 커밋 히스토리
